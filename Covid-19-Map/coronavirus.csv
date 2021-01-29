@@ -1,0 +1,213 @@
+"date","province","country","lat","long","type","cases"
+2020-07-26,"","Afghanistan",33.93911,67.709953,"confirmed",36,471
+2020-07-26,"","Albania",41.1533,20.1683,"confirmed",5105
+2020-07-26,"","Algeria",28.0339,1.6596,"confirmed",29229
+2020-07-26,"","Andorra",42.5063,1.5218,"confirmed",918
+2020-07-26,"","Angola",-11.2027,17.8739,"confirmed",1078
+2020-07-26,"","Antigua and Barbuda",17.0608,-61.7964,"confirmed",3
+2020-07-26,"","Argentina",-38.4161,-63.6167,"confirmed",173355
+2020-07-26,"","Armenia",40.0691,45.0382,"confirmed",37937
+2020-07-26,"","Austria",47.5162,14.5501,"confirmed",20805
+2020-07-26,"","Azerbaijan",40.1431,47.5769,"confirmed",31221
+2020-07-26,"","Bahamas",25.025885,-78.035889,"confirmed",447
+2020-07-26,"","Bahrain",26.0275,50.55,"confirmed",40311
+2020-07-26,"","Bangladesh",23.685,90.3563,"confirmed",232194
+2020-07-26,"","Barbados",13.1939,-59.5432,"confirmed",110
+2020-07-26,"","Belarus",53.7098,27.9534,"confirmed",67518
+2020-07-26,"","Belgium",50.8333,4.469936,"confirmed",66662
+2020-07-26,"","Belize",17.1899,-88.4976,"confirmed",48
+2020-07-26,"","Benin",9.3077,2.3158,"confirmed",1770
+2020-07-26,"","Bhutan",27.5142,90.4336,"confirmed",99
+2020-07-26,"","Bolivia",-16.2902,-63.5887,"confirmed",72327
+2020-07-26,"","Bosnia and Herzegovina",43.9159,17.6791,"confirmed",11127
+2020-07-26,"","Botswana",-22.3285,24.6849,"confirmed",804
+2020-07-26,"","Brazil",-14.235,-51.9253,"confirmed",2553265
+2020-07-26,"","Brunei",4.5353,114.7277,"confirmed",141
+2020-07-26,"","Bulgaria",42.7339,25.4858,"confirmed",10871
+2020-07-26,"","Burkina Faso",12.2383,-1.5616,"confirmed",1105
+2020-07-26,"","Burundi",-3.3731,29.9189,"confirmed",378
+2020-07-26,"","Cabo Verde",16.5388,-23.0418,"confirmed",2373
+2020-07-26,"","Cambodia",11.55,104.9167,"confirmed",226
+2020-07-26,"","Cameroon",3.848,11.5021,"confirmed",17179
+2020-07-26,"","Central African Republic",6.6111,20.9394,"confirmed",4599
+2020-07-26,"","Chad",15.4542,18.7322,"confirmed",926
+2020-07-26,"","Chile",-35.6751,-71.543,"confirmed",351575
+2020-07-26,"","Colombia",4.5709,-74.2973,"confirmed",267385
+2020-07-26,"","Comoros",-11.6455,43.3333,"confirmed",354
+2020-07-26,"","Congo (Brazzaville)",-0.228,15.8277,"confirmed",3200
+2020-07-26,"","Costa Rica",9.7489,-83.7534,"confirmed",16800
+2020-07-26,"","Croatia",45.1,15.2,"confirmed",4993
+2020-07-26,"","Cuba",21.521757,-77.781167,"confirmed",2588
+2020-07-26,"","Cyprus",35.1264,33.4299,"confirmed",1080
+2020-07-26,"","Czechia",49.8175,15.473,"confirmed",15986
+2020-07-26,"","Denmark",56.2639,9.5018,"confirmed",13634
+2020-07-26,"","Diamond Princess",0,0,"confirmed",712
+2020-07-26,"","Djibouti",11.8251,42.5903,"confirmed",5081
+2020-07-26,"","Dominica",15.415,-61.371,"confirmed",18
+2020-07-26,"","Dominican Republic",18.7357,-70.1627,"confirmed",66182
+2020-07-26,"","Ecuador",-1.8312,-78.1834,"confirmed",83193
+2020-07-26,"","Egypt",26.820553,30.802498,"confirmed",93356
+2020-07-26,"","El Salvador",13.7942,-88.8965,"confirmed",15841
+2020-07-26,"","Equatorial Guinea",1.6508,10.2679,"confirmed",3071
+2020-07-26,"","Eritrea",15.1794,39.7823,"confirmed",265
+2020-07-26,"","Estonia",58.5953,25.0136,"confirmed",2042
+2020-07-26,"","Eswatini",-26.5225,31.4659,"confirmed",2404
+2020-07-26,"","Ethiopia",9.145,40.4897,"confirmed",15810
+2020-07-26,"","Fiji",-17.7134,178.065,"confirmed",27
+2020-07-26,"","Finland",61.92411,25.748151,"confirmed",7414
+2020-07-26,"","France",46.2276,2.2137,"confirmed",185196
+2020-07-26,"French Guiana","France",3.9339,-53.1258,"confirmed",7647
+2020-07-26,"French Polynesia","France",-17.6797,149.4068,"confirmed",62
+2020-07-26,"","Gabon",-0.8037,11.6094,"confirmed",7189
+2020-07-26,"","Gambia",13.4432,-15.3101,"confirmed",326
+2020-07-26,"","Georgia",42.3154,43.3569,"confirmed",1155
+2020-07-26,"","Germany",51.165691,10.451526,"confirmed",208811
+2020-07-26,"","Ghana",7.9465,-1.0232,"confirmed",34406
+2020-07-26,"","Greece",39.0742,21.8243,"confirmed",4336
+2020-07-26,"Greenland","Denmark",71.7069,-42.6043,"confirmed",14
+2020-07-26,"","Grenada",12.1165,-61.679,"confirmed",23
+2020-07-26,"","Guatemala",15.7835,-90.2308,"confirmed",561
+2020-07-26,"Guadeloupe","France",16.265,-61.551,"confirmed",244
+2020-07-26,"","Guinea",9.9456,-9.6966,"confirmed",7126
+2020-07-26,"","Guinea-Bissau",11.8037,-15.1804,"confirmed",1954
+2020-07-26,"","Guyana",4.860416,-58.93018,"confirmed",396
+2020-07-26,"","Haiti",18.9712,-72.2852,"confirmed",7371
+2020-07-26,"","Honduras",15.2,-86.2419,"confirmed",40460
+2020-07-26,"","Hungary",47.1625,19.5033,"confirmed",4465
+2020-07-26,"Hong Kong","China",22.3,114.2,"confirmed",3003
+2020-07-26,"","Iceland",64.9631,-19.0208,"confirmed",1861
+2020-07-26,"","India",20.593684,78.96288,"confirmed",1584384
+2020-07-26,"","Indonesia",-0.7893,113.9213,"confirmed",104432
+2020-07-26,"","Iran",32.427908,53.688046,"confirmed",298909
+2020-07-26,"","Iraq",33.223191,43.679291,"confirmed",118300
+2020-07-26,"","Ireland",53.1424,-7.6921,"confirmed",25942
+2020-07-26,"Isle of Man","United Kingdom",54.2361,-4.5481,"confirmed",336
+2020-07-26,"","Israel",31.046051,34.851612,"confirmed",68299
+2020-07-26,"","Italy",41.87194,12.56738,"confirmed",246776
+2020-07-26,"","Jamaica",18.1096,-77.2975,"confirmed",855
+2020-07-26,"","Japan",36.204824,138.252924,"confirmed",30861
+2020-07-26,"","Jordan",31.24,36.51,"confirmed",1187
+2020-07-26,"","Kazakhstan",48.0196,66.9237,"confirmed",86192
+2020-07-26,"","Kenya",-0.0236,37.9062,"confirmed",19125
+2020-07-26,"","Korea, South",35.907757,127.766922,"confirmed",14251
+2020-07-26,"","Kosovo",42.602636,20.902977,"confirmed",0
+2020-07-26,"","Kuwait",29.31166,47.481766,"confirmed",65903
+2020-07-26,"","Kyrgyzstan",41.20438,74.766098,"confirmed",34592
+2020-07-26,"","Laos",19.85627,102.495496,"confirmed",20
+2020-07-26,"","Latvia",56.8796,24.6032,"confirmed",1224
+2020-07-26,"","Lebanon",33.8547,35.8623,"confirmed",4205
+2020-07-26,"","Lesotho",-29.61,28.2336,"confirmed",576
+2020-07-26,"","Liberia",6.428055,-9.429499,"confirmed",1179
+2020-07-26,"","Libya",26.3351,17.228331,"confirmed",3017
+2020-07-26,"","Liechtenstein",47.14,9.55,"confirmed",88
+2020-07-26,"","Lithuania",55.1694,23.8813,"confirmed",2043
+2020-07-26,"","Luxembourg",49.8153,6.1296,"confirmed",6533
+2020-07-26,"","Madagascar",-18.766947,46.869107,"confirmed",10317
+2020-07-26,"Macau","China",22.1667,113.55,"confirmed",46
+2020-07-26,"","Malawi",-13.2543,34.3015,"confirmed",3738
+2020-07-26,"","Malaysia",4.210484,101.975766,"confirmed",8956
+2020-07-26,"","Maldives",3.2028,73.2207,"confirmed",3567
+2020-07-26,"","Mali",17.570692,-3.996166,"confirmed",2521
+2020-07-26,"","Malta",35.9375,14.3754,"confirmed",720
+2020-07-26,"Martinique","France",14.6415,-61.0242,"confirmed",269
+2020-07-26,"","Mauritania",21.0079,-10.9408,"confirmed",6249
+2020-07-26,"","Mauritius",-20.348404,57.552152,"confirmed",344
+2020-07-26,"","Mexico",23.6345,-102.5528,"confirmed",402697
+2020-07-26,"","Moldova",47.4116,28.3699,"confirmed",23947
+2020-07-26,"","Monaco",43.7333,7.4167,"confirmed",117
+2020-07-26,"","Mongolia",46.8625,103.8467,"confirmed",291
+2020-07-26,"","Morocco",31.7917,-7.0926,"confirmed",22213
+2020-07-26,"","Mozambique",-18.665695,35.529562,"confirmed",1748
+2020-07-26,"","MS Zaandam",0,0,"confirmed",9
+2020-07-26,"","Namibia",-22.9576,18.4904,"confirmed",1986
+2020-07-26,"","Nepal",28.1667,84.25,"confirmed",19273
+2020-07-26,"","Netherlands",52.1326,5.2913,"confirmed",53621
+2020-07-26,"","New Zealand",-40.9006,174.886,"confirmed",1559
+2020-07-26,"New Caledonia","France",-20.904305,165.618042,"confirmed",22
+2020-07-26,"","Nicaragua",12.865416,-85.207229,"confirmed",3672
+2020-07-26,"","Niger",17.607789,8.081666,"confirmed",1132
+2020-07-26,"","Nigeria",9.082,8.6753,"confirmed",41804
+2020-07-26,"","North Macedonia",41.6086,21.7453,"confirmed",10503
+2020-07-26,"","Norway",60.472,8.4689,"confirmed",9158
+2020-07-26,"","Oman",21.512583,55.923255,"confirmed",78569
+2020-07-26,"","Pakistan",30.3753,69.3451,"confirmed",276288
+2020-07-26,"","Panama",8.538,-80.7821,"confirmed",62223
+2020-07-26,"","Papua New Guinea",-6.314993,143.95555,"confirmed",63
+2020-07-26,"","Paraguay",-23.4425,-58.4438,"confirmed",4674
+2020-07-26,"","Peru",-9.19,-75.0152,"confirmed",395005
+2020-07-26,"","Philippines",12.879721,121.774017,"confirmed",85486
+2020-07-26,"","Poland",51.9194,19.1451,"confirmed",44416
+2020-07-26,"","Portugal",39.3999,-8.2245,"confirmed",50613
+2020-07-26,"","Qatar",25.3548,51.1839,"confirmed",110153
+2020-07-26,"","Romania",45.9432,24.9668,"confirmed",48235
+2020-07-26,"","Russia",61.52401,105.318756,"confirmed",828990
+2020-07-26,"Reunion","France",-21.1151,55.5364,"confirmed",657
+2020-07-26,"","Rwanda",-1.9403,29.8739,"confirmed",1963
+2020-07-26,"","Saint Kitts and Nevis",17.357822,-62.782998,"confirmed",17
+2020-07-26,"","Saint Lucia",13.9094,-60.9789,"confirmed",24
+2020-07-26,"St Martin","France",18.0708,-63.0501,"confirmed",49
+2020-07-26,"","San Marino",43.9424,12.4578,"confirmed",669
+2020-07-26,"","Sao Tome and Principe",0.1864,6.6131,"confirmed",867
+2020-07-26,"","Saudi Arabia",23.885942,45.079162,"confirmed",272590
+2020-07-26,"","Senegal",14.4974,-14.4524,"confirmed",9961
+2020-07-26,"","Serbia",44.0165,21.0059,"confirmed",24892
+2020-07-26,"","Seychelles",-4.6796,55.492,"confirmed",114
+2020-07-26,"","Singapore",1.2833,103.8333,"confirmed",51531
+2020-07-26,"Sint Maarten","Netherlands",18.0425,-63.0548,"confirmed",115
+2020-07-26,"","Slovakia",48.669,19.699,"confirmed",2245
+2020-07-26,"","Slovenia",46.1512,14.9955,"confirmed",2115
+2020-07-26,"","South Africa",-30.5595,22.9375,"confirmed",471123
+2020-07-26,"","South Sudan",6.877,31.307,"confirmed",2322
+2020-07-26,"","Spain",40.463667,-3.74922,"confirmed",329721
+2020-07-26,"","Sri Lanka",7.873054,80.771797,"confirmed",2810
+2020-07-26,"","Sudan",12.8628,30.2176,"confirmed",11496
+2020-07-26,"Saint Barthelemy","France",17.9,-62.8333,"confirmed",7
+2020-07-26,"","Suriname",3.9193,-56.0278,"confirmed",1510
+2020-07-26,"","Sweden",60.128161,18.643501,"confirmed",79782
+2020-07-26,"","Switzerland",46.8182,8.2275,"confirmed",3408
+2020-07-26,"","Syria",34.802075,38.996815,"confirmed",717
+2020-07-26,"","Taiwan*",23.7,121,"confirmed",467
+2020-07-26,"","Tajikistan",38.861,71.2761,"confirmed",7320
+2020-07-26,"","Thailand",15.870032,100.992541,"confirmed",3298
+2020-07-26,"","Timor-Leste",-8.874217,125.727539,"confirmed",24
+2020-07-26,"","Togo",8.6195,0.8248,"confirmed",896
+2020-07-26,"","Trinidad and Tobago",10.6918,-61.2225,"confirmed",156
+2020-07-26,"","Tunisia",33.886917,9.537499,"confirmed",1488
+2020-07-26,"","Turkey",38.9637,35.2433,"confirmed",228924
+2020-07-26,"","Uganda",1.373333,32.290275,"confirmed",1140
+2020-07-26,"","Ukraine",48.3794,31.1656,"confirmed",67597
+2020-07-26,"","United Arab Emirates",23.424076,53.847818,"confirmed",59921
+2020-07-26,"","United Kingdom",55.3781,-3.436,"confirmed",301455
+2020-07-26,"","Uruguay",-32.5228,-55.7658,"confirmed",1215
+2020-07-26,"","Uzbekistan",41.377491,64.585262,"confirmed",22585
+2020-07-26,"","Venezuela",6.4238,-66.5897,"confirmed",16571
+2020-07-26,"","Vietnam",14.058324,108.277199,"confirmed",450
+2020-07-26,"","West Bank and Gaza",31.9522,35.2332,"confirmed",163
+2020-07-26,"","Western Sahara",24.2155,-12.8858,"confirmed",10
+2020-07-26,"","Yemen",15.552727,48.516388,"confirmed",1711
+2020-07-26,"","Zambia",-13.133897,27.849332,"confirmed",5249
+2020-07-26,"","Zimbabwe",-19.015438,29.154857,"confirmed",2817
+2020-07-26,"Alberta","Canada",53.9333,-116.5765,"confirmed",115246
+2020-07-26,"Beijing","China",40.1824,116.4142,"confirmed",84060
+2020-07-26,"British Virgin Islands","United Kingdom",18.4207,-64.64,"confirmed",8
+2020-07-26,"Cayman Islands","United Kingdom",19.3133,-81.2546,"confirmed",203
+2020-07-26,"Channel Islands","United Kingdom",49.3723,-2.3644,"confirmed",587
+2020-07-26,"Curacao","Netherlands",12.1696,-68.99,"confirmed",29
+2020-07-26,"Diamond Princess","Canada",0,0,"confirmed",712
+2020-07-26,"Faroe Islands","Denmark",61.8926,-6.9118,"confirmed",22
+2020-07-26,"Manitoba","Canada",53.7609,-98.8139,"confirmed",6
+2020-07-26,"New South Wales","Australia",-33.8688,151.2093,"confirmed",17
+2020-07-26,"Newfoundland and Labrador","Canada",53.1355,-57.6604,"confirmed",1
+2020-07-26,"Ningxia","China",37.2692,106.1655,"confirmed",0
+2020-07-26,"Northern Territory","Australia",-12.4634,130.8456,"confirmed",0
+2020-07-26,"Northwest Territories","Canada",64.8255,-124.8457,"confirmed",0
+2020-07-26,"Nova Scotia","Canada",44.682,-63.7443,"confirmed",0
+2020-07-26,"Ontario","Canada",51.2538,-85.3232,"confirmed",101
+2020-07-26,"Prince Edward Island","Canada",46.5107,-63.4168,"confirmed",0
+2020-07-26,"Qinghai","China",35.7452,95.9956,"confirmed",0
+2020-07-26,"Quebec","Canada",52.9399,-73.5491,"confirmed",169
+2020-07-26,"Queensland","Australia",-27.4698,153.0251,"confirmed",0
+2020-07-26,"Saint Pierre and Miquelon","France",46.8852,-56.3159,"confirmed",0
+2020-07-26,"Saskatchewan","Canada",52.9399,-106.4509,"confirmed",42
+2020-07-26,"Turks and Caicos Islands","United Kingdom",21.694,-71.7979,"confirmed",5
+2020-07-26,"Victoria","Australia",-37.8136,144.9631,"confirmed",15580 
